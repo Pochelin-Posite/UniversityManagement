@@ -1,2 +1,2 @@
 # UniversityManagement
-Manage of university activities
+Nous allons gérer toutes les activités de l'université à partir de cette application web
